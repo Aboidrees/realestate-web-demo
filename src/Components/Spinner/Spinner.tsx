@@ -1,4 +1,4 @@
-import logo from "../logo.svg";
+import logo from "../../logo.svg";
 
 export const Spinner: React.FC = () => (
   <div className="spinner">

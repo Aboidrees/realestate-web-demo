@@ -1,5 +1,5 @@
 import React from "react";
-import { MapLoader } from "../Map/Map";
+import { MapLoader } from "../Map/MapLoader";
 import "./App.css";
 
 const App: React.FC = () => {
